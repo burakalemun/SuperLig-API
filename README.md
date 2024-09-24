@@ -28,8 +28,8 @@ This project is a Go application that scrapes live football league data from a s
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/football-league-data-fetcher.git
-    cd football-league-data-fetcher
+    git clone https://github.com/burakalemun/SuperLig-API.git
+    cd SuperLig-API
     ```
 
 2. Download and install the required dependencies:
@@ -82,8 +82,8 @@ Bu proje, belirli bir web sitesinden (Türkiye Futbol Federasyonu) canlı futbol
 
 1. Bu depoyu klonlayın:
     ```bash
-    git clone https://github.com/your-username/football-league-data-fetcher.git
-    cd football-league-data-fetcher
+    git clone https://github.com/burakalemun/SuperLig-API.git
+    cd SuperLig-API
     ```
 
 2. Gerekli bağımlılıkları indirin ve yükleyin:
