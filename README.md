@@ -130,7 +130,7 @@ curl http://localhost:8000/live
 
 ## License / Lisans
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/burakalemun/SuperLig-API/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/burakalemun/SuperLig-API/blob/main/LICENSE) file for details. </br>
 Bu proje MIT Lisansı altında lisanslanmıştır - ayrıntılar için [LICENSE](https://github.com/burakalemun/SuperLig-API/blob/main/LICENSE) dosyasına bakın.
 
 
