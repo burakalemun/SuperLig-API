@@ -1,4 +1,4 @@
-# SuperLig-API
+# Turkish SuperLig-API
 
 
 # Football League Data Fetcher
